@@ -1,6 +1,6 @@
 # Disaster Booklet
 
-This app allows users to select the type of natural disaster they believe they are experiencing. After that, it provides them with tips on what to do depending on the scenario, including warning signs and suggestions on what to pack for an emergency kit.
+This app allows users to select the type of natural disaster they believe they are experiencing. After that, it provides them with information specific to the disaster they selected, including warning signs and what to do if they are experiencing the disaster.
 
 - **Built for:** McMaster Engineering Competition, 2025  
 - **Team:** B1UE M00N  
